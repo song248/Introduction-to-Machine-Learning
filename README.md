@@ -9,7 +9,6 @@
 - Numpy, Pandas, Matplotlib, Scikit-Learn 등 데이터 분석을 위한 기본적인 파이썬 패키지 이해
 
 ## Course Contents
-- Course Overvier
 
 ### Chapter 1 - Introduction to Machine Learning
 - Machine learning overview
