@@ -13,12 +13,19 @@
 > - 호칭의 차이
 >	> - 머신러닝: 알고리즘
 >	> - 데이터마이닝: 어플리케이션   
-> 	>	> 데이터 처리 : Big Data →  Data Engineering
+> 	>	> 데이터 처리 : Big Data →  Data Engineering   
 >	>	> 데이터 분석 : Machine Learning → Data Analysis   
 
 # Deep Learning
 > - Neural Net 기반 머신러닝 알고리즘
-> - **사진애 객체 인식, 자연어 처리(번역) 등 탁월한 성능**
+> - **사진애 객체 인식, 자연어 처리(번역) 등 탁월한 성능**   
 
+# Machine Learning Overview
++ Model - 예측을 위한 수학 공식(함수, 방정식, 분포 표 등)
++ Algorithms - 어떠한 문제를 풀기 위한 과정 / Model을 생성하기 위한 훈련 과정
 
-
+# 머신러닝은 선을 찾아 긋는 것!
+**어떤 선을 긋는가**
+> Regression: 회귀, 추세선
+> Classification: 분류, 데이터의 유형
+> Clustering: 군집, 데이터 모으기
