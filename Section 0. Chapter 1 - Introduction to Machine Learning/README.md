@@ -25,7 +25,7 @@
 + Algorithms - 어떠한 문제를 풀기 위한 과정 / Model을 생성하기 위한 훈련 과정
 
 # 머신러닝은 선을 찾아 긋는 것!
-###**어떤 선을 긋는가**
+### **어떤 선을 긋는가**
 > - Regression: 회귀, 추세선   
 > - Classification: 분류, 데이터의 유형   
 > - Clustering: 군집, 데이터 모으기
@@ -52,7 +52,8 @@
 > - KMS(Knowledge Management System): 사내 지식 관리 및 제공
 > - ERP(Enterprise Resource Planning): 전사적 자원 관리
 
-# Paradigm의 이동(기업 → 개인 / 효율 → 가치)
+# Paradigm의 이동
+### (기업 → 개인 / 효율 → 가치)
 > - Data from individual
 >	> - Data Era
 >	>	> - Big Data(Hadoop, spark): 대용량 데이터 처리기술
