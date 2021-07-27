@@ -18,7 +18,7 @@
 > - **데이터 분포나 모델 추정의 어려움 발생**
 
 ### Data types
-####연속형 값 vs 이산형 값
+#### 연속형 값 vs 이산형 값
 > - **continuous**(연속형): 연속적인 값, 일반적으로 실수 값
 > - **discrete**(이산형): 비연속적 값, Label로 구분 되는 값   
 
@@ -30,3 +30,24 @@
 
 #### Nominal Types
 > - 범주로 측정 가능한 data type
+> - 명목척도
+> - 두 개의 Category만 분류하는 경우는 Binary Type으로
+
+#### Ordinal Types
+> - 범주로 분류가 가능하나 범주간 순서가 존재
+> - 명목척도
+> - 사람마다 측정되는 scale 또는 unit이 차이가 있을 수 있음   
+
+#### 발생 가능한 문제점들
+> - 데이터 최대/최소가 다름 → Scale에 따른 y값에 영향
+> - wrong data / none data
+> - extreme large / small data   
+
+#### 데이터의 형식
+> - 일반적으로 데이터 분석에 사용하는 Raw data는 binary가 아닌 text 데이터
+> - 파일 형태: csv, json, xml 등
+> - pandas를 통해 호출 및 핸들링   
+
+# Pandas
+### Pandas
+> - 구조화된 데이터 처리를 지원하는 python library
