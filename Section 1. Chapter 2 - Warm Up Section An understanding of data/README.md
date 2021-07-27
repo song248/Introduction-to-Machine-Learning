@@ -48,6 +48,14 @@
 > - 파일 형태: csv, json, xml 등
 > - pandas를 통해 호출 및 핸들링   
 
-# Pandas
+# Pandas & Numpy
 ### Pandas
 > - 구조화된 데이터 처리를 지원하는 python library
+> - 고성능 Array 계산 라이브러리 Numpy와 통합하여, 강력한 **스프레드 시트** 처리 기능 제공
+> - 인덱싱, 연산용 함수, 전처리 함수 등 제공   
+
+### Numpy
+> - Numerical Python
+> - 파이썬의 고성능 과학 계산용 기초 패키지
+> - Vector, Matrix와 같은 Array 연산의 표준
+> - 일반 List에 비해 빠른 연산 속도, 효율적인 메모리 사용
