@@ -26,6 +26,18 @@
 
 # 머신러닝은 선을 찾아 긋는 것!
 **어떤 선을 긋는가**
-> Regression: 회귀, 추세선
-> Classification: 분류, 데이터의 유형
-> Clustering: 군집, 데이터 모으기
+> - Regression: 회귀, 추세선   
+> - Classification: 분류, 데이터의 유형   
+> - Clustering: 군집, 데이터 모으기
+
+## Types of Machine Learning
+> - Supervised: Y 데이터가 있는 것
+>	> - Regression
+>	> - Classification
+> - Unsupervised: Y 데이터가 없는 것
+>	> - Clustering   
+
+# The Era of Data(History of Information System
+> - 1960년대: 단수 데이터 처리를 위한 정보 시스템의 등장
+> 	> - EDPS(Electronic Data Processing System)
+>	> - TPS(Transaction Processing Systen)
