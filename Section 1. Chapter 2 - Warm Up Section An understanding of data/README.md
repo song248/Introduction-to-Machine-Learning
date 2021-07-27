@@ -18,14 +18,15 @@
 > - **데이터 분포나 모델 추정의 어려움 발생**
 
 ### Data types
-> - 연속형 값 vs 이산형 값
->	> - **continuous**(연속형): 연속적인 값, 일반적으로 실수 값
->	> - **discrete**(이산형): 비연속적 값, Label로 구분 되는 값   
+####연속형 값 vs 이산형 값
+> - **continuous**(연속형): 연속적인 값, 일반적으로 실수 값
+> - **discrete**(이산형): 비연속적 값, Label로 구분 되는 값   
 
-> - Numeric Types
->	> - 정량적으로 측정 가능한 data type
->	> - 일반적으로 정수 혹은 실수 형태
->	> - Interval-scaled type(단위가 있는)
->	> - Ratio-scaled type(비율이 있는)   
+#### Numeric Types
+> - 정량적으로 측정 가능한 data type
+> - 일반적으로 정수 혹은 실수 형태
+> - Interval-scaled type(단위가 있는)
+> - Ratio-scaled type(비율이 있는)   
 
-> - Nominal Types
+#### Nominal Types
+> - 범주로 측정 가능한 data type
