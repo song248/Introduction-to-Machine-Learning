@@ -53,13 +53,32 @@
 > - ERP(Enterprise Resource Planning): 전사적 자원 관리
 
 # Paradigm의 이동
-### (기업 → 개인 / 효율 → 가치)
+### 기업 → 개인 / 효율 → 가치
 > - Data from individual
 >	> - Data Era
 >	>	> - Big Data(Hadoop, spark): 대용량 데이터 처리기술
 >	>	> - IoT를 통한 대규모 데이터 생성(from IoT sensor)
 >	>	>	>  - Cloud
 > - 자동화된 분석/처리 필요성 대두 => Machine Learning
+
+# Environment Setup 
+## Python Ecosystem for Machine Learning
+> - ANACONDA: 과학 계산용 Python 통합 배포판(by Continuum Analytics)
+>	> - CONDA: 파이썬 가상 환경 관리 패키지
+>	> - Jupyter: 데이터 분석을 위한 파이썬 IDE
+>	>	> - pandas: Python 데이터 분석 라이브러리
+>	>	> - Numpy: 고성능 Array 처리 라이브러리
+>	>	> - matplotlib: 데이터 시각화를 위한 Python package   
+
+## Jupyter
+> - IPython 커널을 기반으로 한 대화형 파이썬 셸
+> - 일반적인 터미널 셸 + 웹 기반 데이터 분석 Notebook 제공
+> - **Ju**lia + **Pyt**hon + **R** language
+
+## Virtual Environment
+> - 필요한 패키지만 설치하여 사용하는 가상 환경
+> - 기본 interpreter + 프로젝트 종류별 패키지 형태
+
 
 
 
