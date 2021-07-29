@@ -27,9 +27,9 @@
 >	> - 한 개 이상의 벡터, m row by n column
 >	> - 매트릭스의 표현 방법 .img   
 
->	> - Matrix Operation
->	>	> - Equal(등치)
->	>	> - Addition: 같은 크기의 행렬에 대해서
->	>	> - Scalar-Matrix Product: 일종의 분배
->	>	> - Transpose(전치): m by n matrix → n by m matrix
->	>	> - Product: n by m matrix A x m by n matirx B = n by n matrix C
+> - Matrix Operation
+>	> - Equal(등치)
+>	> - Addition: 같은 크기의 행렬에 대해서
+>	> - Scalar-Matrix Product: 일종의 분배
+>	> - Transpose(전치): m by n matrix → n by m matrix
+>	> - Product: n by m matrix A x m by n matirx B = n by n matrix C
